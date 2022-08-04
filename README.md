@@ -1,1 +1,1 @@
-# week4_activity
+# weekly_activity
